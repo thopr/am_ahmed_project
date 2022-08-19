@@ -1,0 +1,16 @@
+/*your custom css goes here*/
+.whatsapp-icon{width: 40%;
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+    border-radius: 17px;
+    border: 5px solid white;}
+    @media only screen and (max-width: 600px) {
+        .whatsapp-icon{width:100%;}
+        .dealfont-size{
+            font-size: 31px !important;
+                                                    text-align: center;
+        }
+    }
+
+    
